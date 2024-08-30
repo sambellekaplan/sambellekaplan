@@ -8,7 +8,7 @@ I am a junior at James Madison University with a profound interest in business t
 ## Objective
 
 
-My journey in computer information systems has led me to develop passions for both cybersecurity and data analytics. I am now eager to transition into these fields post grad to continue to hone my skills and knowledge.
+My journey in computer information systems has led me to develop passions for both cybersecurity and data analytics. I am now eager to transition into these fields post grad to continue building my skills and knowledge.
 ## Skills
 
 
