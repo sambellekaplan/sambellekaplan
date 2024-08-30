@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hello, I'm Samantha Kaplan
+<a href="https://linkedin.com/in/samantha-kaplan-576397266/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**sambellekaplan/sambellekaplan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a junior at James Madison University with a profound interest in business technology and a dedication to solving complex problems.
+
+## Objective
+
+
+My journey in computer information systems has led me to develop passions for both cybersecurity and data analytics. I am now eager to transition into these fields post grad to continue to hone my skills and knowledge.
+## Skills
+
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+|                                                          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
+## Tools
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=Nmap&logoColor=white" />
+</div>
+
+### Web Application
+<div>
+    <img src="https://img.shields.io/badge/-Burp%20Suite-FF5733?&style=for-the-badge&logo=Burp%20Suite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OWASP%20ZAP-3C78B5?&style=for-the-badge&logo=OWASP&logoColor=white" />
+
+</div>
+
+### Others
+<div>
+    <img src="https://img.shields.io/badge/-Snort-EE0000?&style=for-the-badge&logo=Snort&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali%20Linux-557CFF?&style=for-the-badge&logo=kali-linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Power%20BI-5C2D91?&style=for-the-badge&logo=Microsoft%20Power%20BI&logoColor=white" />
+
+</div>
+
+## Certifications
+
+<div>
+<img src="https://img.shields.io/badge/-Advanced%20Data%20Analytics-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+
+</div>
+
+## Projects
+- 
+- 
