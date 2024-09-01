@@ -14,11 +14,11 @@ My journey in computer information systems has led me to develop passions for bo
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|  My journey learning Python                   | <a href="https://github.com/sambellekaplan/Python-Projects/blob/main/README.md">Python Projects</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Python                   | <a href="https://github.com/sambellekaplan/Python-Projects/blob/main/README.md">Python Projects</a>|
+| Cloud Server Management | <a href="https://google.com">AWS Lab</a>|
 | Simulated Cyber Attacks         | SOC Automation Lab|
 | Data Analytics     | SOC Automation Lab|
-| Programming a Robot                  | Arduino|
+| Robotics Programming            | Arduino|
 | Tableau | Tableau Project|
 
 ## Tools
