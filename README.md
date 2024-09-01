@@ -52,5 +52,5 @@ My journey in computer information systems has led me to develop passions for bo
 </div>
 
 ## Projects
-- 
+- <a href="https://github.com/sambellekaplan/Python-Projects/blob/main/README.md">Python Projects</a>
 - 
