@@ -47,7 +47,7 @@ My journey in computer information systems has led me to develop passions for bo
 ## Certifications
 
 <div>
-<img src="https://img.shields.io/badge/-Advanced%20Data%20Analytics-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+<img src="https://img.shields.io/badge/-Advanced%20Data%20Analytics-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />(https://www.coursera.org/account/accomplishments/professional-cert/DSH12DAX02BS)
 
 </div>
 
